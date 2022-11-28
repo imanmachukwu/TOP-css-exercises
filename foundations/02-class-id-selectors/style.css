@@ -1,6 +1,5 @@
 .pink-background {
     background-color: #ffc0cb;
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
 .bigger {
@@ -14,6 +13,9 @@
 
 #number-four {
     background-color: #90ee90;
-    font-size: 24px;
     font-weight: bold;
+}
+
+body {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
