@@ -1,0 +1,16 @@
+div .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/*This code would have worked too:
+.container {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+But the reason it was not used is that the last div block would have a yellow background color which means the space between the two paragraphs would be yellow too. In the outcome image, it is not so.*/
